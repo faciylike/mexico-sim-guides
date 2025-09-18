@@ -68,3 +68,10 @@ layout: default
 ## 七、 个人建议：我的取舍与理由
 
 　　在墨西哥混
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Mexico eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/mexico-data-plans)
